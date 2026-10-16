@@ -1,19 +1,15 @@
 # Studio Free Move
 
-Site estático, sem instalação de dependências ou build. Abra index.html para visualizar.
+Site estático em HTML, CSS e JavaScript, sem dependências ou build. Abra index.html para visualizar. As imagens ficam na pasta assets.
+
+## Atualização
+
+Logo original e fotos reais da 104 e da 301, história desde fevereiro de 2014, três endereços e WhatsApp confirmados. A foto da 301 não foi atribuída a um andar específico.
 
 ## Publicação
 
-Para hospedar no GitHub Pages, configure a branch main e a pasta / (root) nas configurações de Pages. O envio de arquivos não ativa a hospedagem automaticamente.
+A hospedagem pública ainda depende da configuração de GitHub Pages (branch main, pasta / root) ou outro provedor. Esta atualização não ativou a hospedagem.
 
-## Conteúdo confirmado
+## Verificação e pendências
 
-WhatsApp: (61) 99695-3449.
-
-- CLSW 104, bloco B, sala 127.
-- CLSW 301, bloco B, sala 59, subsolo.
-- CLSW 301, bloco B, sala 115, primeiro andar.
-
-## Próximos ajustes
-
-Adicionar logo e fotos reais, revisar no navegador e configurar domínio e Search Console após publicação. Não há medição de conversões instalada.
+Links internos, referências das imagens e dados de contato conferidos. Ainda falta revisão visual no navegador, domínio e Search Console. Não há medição de conversões instalada.
